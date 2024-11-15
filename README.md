@@ -24,7 +24,7 @@ Para poder realizar un pedido el end-point espera de un objecto con las siguient
 Donde en algunas propiedades se debe tomar en cuenta:
 |Propiedad|Observaciones  |
 |--|--|
-|pizzaNombre|El nombre de la pizza que solo acepta los siguinetes valores: "Margarita", "Pepperoni", "CuatroQuesos" y "Personalizada"|
+|pizzaNombre|El nombre de la pizza que solo acepta los siguientes valores: "Margarita", "Pepperoni", "CuatroQuesos" y "Personalizada"|
 |ingredientes|Esta lista de ingredientes es solo requerido al solicitar una pizza "Personalizada", donde el "nombre" de los ingredientes pueden ser: "Salsa de tomate", "Queso", "Albahaca", "Tomate" y "Pepperoni" y para el "tipo" de los ingredientes solo es requerido para el "Queso" que pueden ser: "Mozzarella", "Parmesano", "Gorgonzola" y "Fontina"|
 |fechaPedido|La fecha para cuando se realizará el pedido donde podrá contar con diferentes tipos de promociones, las cuales son: martes y miércoles, las pizzas 2x1; y el jueves, el delivery gratis.|
 
